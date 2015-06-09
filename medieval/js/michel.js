@@ -1,5 +1,5 @@
 (function(global) {
   global.michel = function() {
-    console.log('salut Michel');
+    global.salut('Michel');
   }
 })(this);
