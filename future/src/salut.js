@@ -1,4 +1,4 @@
 
-module.exports = function(name) {
+module.exports = name => {
   console.log('salut ' + name);
 };
