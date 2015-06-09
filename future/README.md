@@ -27,7 +27,7 @@ Build bundle:
 gulp
 ```
 
-Or, if you want to generate source-maps, for easier debugging:
+Or, if you want to generate source-maps to ease debugging:
 
 ```sh
 NODE_ENV=dev gulp
