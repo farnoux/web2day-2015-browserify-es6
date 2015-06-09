@@ -1,4 +1,4 @@
-:warning: Caution, you're entering in the future.
+:warning: Caution, you're entering the future.
 
 # Description
 
