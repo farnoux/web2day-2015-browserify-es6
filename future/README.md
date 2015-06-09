@@ -33,4 +33,4 @@ Or, if you want to generate source-maps to ease debugging:
 NODE_ENV=dev gulp
 ```
 
-Open the index file located in `/public/index.html`
+Then, open the index file located at `/public/index.html`
